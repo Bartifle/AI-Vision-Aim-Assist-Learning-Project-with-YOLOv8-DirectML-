@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 1. Place your fine-tuned YOLOv8 .onnx model in the main directory.
 
-2. You can use my export_onnx.py script to export finetuned .pt in .onnx.
+2. You can use my export_onnx.py script to export finetuned .pt to .onnx.
 
 3. Adjust settings (input source, capture resolution, thresholds, ...) in the main file in the CONFIG section.
 
